@@ -1,0 +1,5 @@
+.env
+.db
+/uploads/*
+/data/*
+/media/*
