@@ -8,7 +8,7 @@ Penpot is an open-source design and prototyping platform for teams. It supports 
 
 ### 🏆 Run
 
-- [http://localhost:8000/](http://localhost:8000/) username : `admin` password : `admin`
+- [http://localhost:9001/](http://localhost:9001/) username : `admin` password : `admin`
 
 ```shell
 docker-compose up -d
